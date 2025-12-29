@@ -74,14 +74,6 @@
   -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
   </details>
   </details>
-
-  <details>
-    <summary>Git and GitHub</summary>
-
-  - 📘 [Git Documentation](https://git-scm.com/doc)
-  - 📘 [GitHub Docs](https://docs.github.com/)
-  </details>
-
 </details>
 
 
