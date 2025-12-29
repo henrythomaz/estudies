@@ -17,105 +17,101 @@
   <details>
     <summary>Operating Systems</summary>
 
-  -  [Guia Foca Linux](https://www.guiafoca.org/#download)
-  -  [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/)
+  - [Guia Foca Linux](https://www.guiafoca.org/#download)
+  - [Linux Essentials (LPI)](https://learning.lpi.org/pt/learning-materials/010-160/)
   </details>
 
   <details>
     <summary>Networks</summary>
 
-  -  [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+  - [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
   </details>
 
   <details>
     <summary>Logic</summary>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  - [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
   </details>
 
   <details>
     <summary>Git and GitHub</summary>
 
-  - 📘 [Git Documentation](https://git-scm.com/doc)
-  - 📘 [GitHub Docs](https://docs.github.com/)
+  - [Git Documentation](https://git-scm.com/doc)
+  - [GitHub Docs](https://docs.github.com/)
   </details>
-
 </details>
-<details>
 
+<details>
   <summary><strong>Frontend</strong></summary>
 
   <details>
-    <summary>html</summary>
+    <summary>HTML</summary>
 
-  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
+  - [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
   </details>
 
   <details>
-    <summary>css</summary>
+    <summary>CSS</summary>
 
-  -  [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
+  - [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
+  </details>
 
   <details>
-    <summary>frameworks</summary>
+    <summary>Frameworks</summary>
 
   <details>
-  <summary>bootstrap</summary>
+      <summary>Bootstrap</summary>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  </details>
-  <details>
-  <summary>saas</summary>
+  - [Bootstrap Documentation](https://getbootstrap.com/docs/)
+    </details>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  </details>
-  <details>
-  <summary>tailwind</summary>
+    <details>
+      <summary>Sass</summary>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  </details>
-  </details>
+    - [Sass Documentation](https://sass-lang.com/documentation/)
+    </details>
+
+    <details>
+      <summary>Tailwind</summary>
+
+    - [Tailwind Documentation](https://tailwindcss.com/docs)
+    </details>
   </details>
 </details>
-<summary><strong>Backend</strong></summary>
+
+<details>
+  <summary><strong>Backend</strong></summary>
 
   <details>
-    <summary>apis</summary>
+    <summary>APIs</summary>
 
-  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
-  <details>
-    <summary>swagger</summary>
+  - [REST APIs Introduction](https://restfulapi.net/)
+  
+    <details>
+      <summary>Swagger / OpenAPI</summary>
 
-  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
-
+    - [Swagger Documentation](https://swagger.io/docs/)
+    </details>
   </details>
-  </details>
 
   <details>
-    <summary>Fundamentals</summary>
-
-  -  [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
+    <summary>Node.js</summary>
 
   <details>
-    <summary>node</summary>
+      <summary>Fundamentals</summary>
 
-  <details>
-  <summary>frameworks</summary>
+  - [Node.js Docs](https://nodejs.org/en/docs)
+    </details>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  <summary>nestjs</summary>
+    <details>
+      <summary>Frameworks</summary>
 
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  </details>
-  </details>
-  <details>
+      <details>
+        <summary>NestJS</summary>
 
-  <details>
-  <summary>tailwind</summary>
-
-  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
-  </details>
-  </details>
+      - [NestJS Documentation](https://docs.nestjs.com/)
+      </details>
+    </details>
   </details>
 </details>
 
@@ -131,4 +127,3 @@ You can create your own homepage for free without notifying me by forking this p
 - Do not use the 3D voxel dog
 
 Check out [LICENSE](./LICENSE) for more details.
-
