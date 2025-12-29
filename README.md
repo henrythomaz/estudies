@@ -17,27 +17,27 @@
   <details>
     <summary>Operating Systems</summary>
 
-    -  [Guia Foca Linux](https://www.guiafoca.org/#download)
-    -  [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/)
+  -  [Guia Foca Linux](https://www.guiafoca.org/#download)
+  -  [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/)
   </details>
 
   <details>
     <summary>Networks</summary>
 
-    -  [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+  -  [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
   </details>
 
   <details>
     <summary>Logic</summary>
 
-    -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
   </details>
 
   <details>
     <summary>Git and GitHub</summary>
 
-    - 📘 [Git Documentation](https://git-scm.com/doc)
-    - 📘 [GitHub Docs](https://docs.github.com/)
+  - 📘 [Git Documentation](https://git-scm.com/doc)
+  - 📘 [GitHub Docs](https://docs.github.com/)
   </details>
 
 </details>
