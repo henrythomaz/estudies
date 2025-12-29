@@ -41,6 +41,7 @@
   </details>
 
 </details>
+<details>
 
   <summary><strong>Frontend</strong></summary>
 
