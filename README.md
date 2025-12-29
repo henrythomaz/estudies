@@ -92,10 +92,10 @@
   <details>
     <summary>Frameworks</summary>
 
-    <details>
+  <details>
       <summary>Bootstrap</summary>
 
-    - [Bootstrap Documentation](https://getbootstrap.com/docs/)
+  - [Bootstrap Documentation](https://getbootstrap.com/docs/)
     </details>
 
     <details>
