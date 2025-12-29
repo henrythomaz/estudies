@@ -10,7 +10,7 @@
 - [Framer Motion](https://www.framer.com/motion/) - An animation library for React
 
 ## References<
->!fundamentals<
+>!fundamentals!<
 
 MIT License.
 
