@@ -77,7 +77,47 @@
   </details>
   </details>
 </details>
+<summary><strong>Backend</strong></summary>
 
+  <details>
+    <summary>apis</summary>
+
+  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
+  <details>
+    <summary>swagger</summary>
+
+  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
+
+  </details>
+  </details>
+
+  <details>
+    <summary>Fundamentals</summary>
+
+  -  [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
+
+  <details>
+    <summary>node</summary>
+
+  <details>
+  <summary>frameworks</summary>
+
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  <summary>nestjs</summary>
+
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
+  </details>
+  <details>
+
+  <details>
+  <summary>tailwind</summary>
+
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
+  </details>
+  </details>
+</details>
 
 ---
 
