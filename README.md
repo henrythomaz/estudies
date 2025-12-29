@@ -134,7 +134,7 @@
       <summary>Fundamentals</summary>
 
   - [Node.js Docs](https://nodejs.org/en/docs)
-    </details>
+</details>
 
    <details>
       <summary>Frameworks</summary>
@@ -144,7 +144,7 @@
 
    - [NestJS Documentation](https://docs.nestjs.com/)
       </details>
-    </details>
+  </details>
   </details>
 </details>
 
@@ -236,9 +236,6 @@
 
 MIT License.
 
-You can create your own homepage for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://github.com/henrythomaz)
-- Do not use the 3D voxel dog
+You can study with this repositorio althught you need follow this LICENSE:
 
 Check out [LICENSE](./LICENSE) for more details.
