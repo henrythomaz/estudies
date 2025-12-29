@@ -9,8 +9,11 @@
 - [Three.js](https://threejs.org/) - 3D library for JavaScript
 - [Framer Motion](https://www.framer.com/motion/) - An animation library for React
 
-## References<
->!fundamentals!<
+## References
+
+>!Este é o conteúdo extra que aparece quando você clica no spoiler!<
+
+>!Pode ter mais parágrafos ou qualquer outro conteúdo aqui!<
 
 MIT License.
 
