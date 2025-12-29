@@ -82,7 +82,7 @@ MIT License.
 
 You can create your own homepage for free without notifying me by forking this project under the following conditions:
 
-- Add a link to [my homepage](https://www.craftz.dog/)
+- Add a link to [my homepage](https://github.com/henrythomaz)
 - Do not use the 3D voxel dog
 
 Check out [LICENSE](./LICENSE) for more details.
