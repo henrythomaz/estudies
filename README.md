@@ -11,9 +11,25 @@
 
 ## References
 
->!Este é o conteúdo extra que aparece quando você clica no spoiler!<
+<details>
+  <summary>Fundamentals</summary>
+    <details>
+      <summary>Operating Systems</summary>
+      
+      ![teste](youtube.com)
 
->!Pode ter mais parágrafos ou qualquer outro conteúdo aqui!<
+    </details>
+    <details>
+      <summary>Networks</summary>
+    </details>
+    <details>
+      <summary>Logic</summary>
+    </details>
+    <details>
+      <summary>Git and GitHub</summary>
+    </details>
+
+</details>
 
 MIT License.
 
