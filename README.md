@@ -55,7 +55,6 @@
     <summary>css</summary>
 
   -  [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
-  </details>
 
   <details>
     <summary>frameworks</summary>
@@ -72,6 +71,7 @@
   <summary>tailwind</summary>
 
   -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
   </details>
   </details>
 </details>
