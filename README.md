@@ -4,10 +4,63 @@
 
 ## Stack
 
-- [Next.js](https://nextjs.org/) – A React framework with hybrid static & server rendering
-- [Chakra UI](https://chakra-ui.com/) – A simple, modular and accessible component library for React
-- [Three.js](https://threejs.org/) – 3D library for JavaScript
-- [Framer Motion](https://www.framer.com/motion/) – An animation library for React
+### Languages
+- Python
+- Go
+- C++
+- Lua
+- JavaScript / TypeScript
+
+### Frontend
+
+#### Base
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+#### Frameworks & Libraries
+- React
+- Next.js
+
+#### Styling
+- Chakra UI
+- Tailwind CSS
+
+#### Animations & Graphics
+- Framer Motion
+- Three.js
+
+
+### Backend
+- Node.js
+- NestJS
+- REST APIs
+- Swagger / OpenAPI
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### Testing
+- Jest
+- Supertest
+- Testing Library
+- Playwright
+
+### DevOps & Infra
+- Docker
+- GitHub Actions
+- AWS
+
+### Tools
+- Git & GitHub
+- Neovim
+- tmux
+- Linux
+
 
 ## References
 
