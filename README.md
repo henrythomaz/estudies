@@ -123,7 +123,7 @@
     <details>
       <summary>Swagger / OpenAPI</summary>
 
-   - [Swagger Documentation](https://swagger.io/docs/)
+     - [Swagger Documentation](https://swagger.io/docs/)
     </details>
   </details>
 
