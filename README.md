@@ -236,6 +236,6 @@
 
 MIT License.
 
-You can study with this repositorio althught you need follow this LICENSE:
+You can study with this repository, although you must follow its license:
 
 Check out [LICENSE](./LICENSE) for more details.
