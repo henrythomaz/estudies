@@ -98,16 +98,16 @@
   - [Bootstrap Documentation](https://getbootstrap.com/docs/)
     </details>
 
-    <details>
+   <details>
       <summary>Sass</summary>
 
-    - [Sass Documentation](https://sass-lang.com/documentation/)
+   - [Sass Documentation](https://sass-lang.com/documentation/)
     </details>
 
-    <details>
+   <details>
       <summary>Tailwind</summary>
 
-    - [Tailwind Documentation](https://tailwindcss.com/docs)
+   - [Tailwind Documentation](https://tailwindcss.com/docs)
     </details>
   </details>
 </details>
@@ -123,7 +123,7 @@
     <details>
       <summary>Swagger / OpenAPI</summary>
 
-    - [Swagger Documentation](https://swagger.io/docs/)
+   - [Swagger Documentation](https://swagger.io/docs/)
     </details>
   </details>
 
@@ -136,13 +136,13 @@
   - [Node.js Docs](https://nodejs.org/en/docs)
     </details>
 
-    <details>
+   <details>
       <summary>Frameworks</summary>
 
-      <details>
+   <details>
         <summary>NestJS</summary>
 
-      - [NestJS Documentation](https://docs.nestjs.com/)
+   - [NestJS Documentation](https://docs.nestjs.com/)
       </details>
     </details>
   </details>
