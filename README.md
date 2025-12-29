@@ -46,22 +46,33 @@
   <summary><strong>Frontend</strong></summary>
 
   <details>
-    <summary>Operating Systems</summary>
+    <summary>html</summary>
 
-  -  [Guia Foca Linux](https://www.guiafoca.org/#download)
-  -  [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/)
+  -  [Apostila HTML](http://telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf)
   </details>
 
   <details>
-    <summary>Networks</summary>
+    <summary>css</summary>
 
-  -  [Curso Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP)
+  -  [Estruturando o HTML com CSS](https://pt-br.learnlayout.com/)
   </details>
 
   <details>
-    <summary>Logic</summary>
+    <summary>frameworks</summary>
+
+  <details>
+  <summary>bootstrap</summary>
 
   -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
+  <summary>saas</summary>
+
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
+  <summary>tailwind</summary>
+
+  -  [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao)
+  </details>
   </details>
 
   <details>
