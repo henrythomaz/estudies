@@ -11,3 +11,9 @@ status - checked!
 - Paragraphs and wrap lines
 
 status - checked!
+
+## Capter 3
+
+- Aplicando estilos de texto
+
+status - checked!
