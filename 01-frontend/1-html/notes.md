@@ -33,3 +33,11 @@ status - checked!
 ## Capter 6
 
 - Lists
+
+status - checked!
+
+## Capter 7
+
+-  Tables
+
+status -checked!
