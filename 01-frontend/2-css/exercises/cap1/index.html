@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Fundamentals</title>
+</head>
+<body>
+  <h1>Box Model</h1>
+    <h2>Content</h2>
+    <div id="content">
+    </div>
+    <h2>Padding</h2>
+    <div id="padding">
+      <p>test</p>
+    </div>
+    <h2>Border</h2>
+    <div id="border">
+    </div>
+    <h2>Margin</h2>
+    <div id="margin">
+    </div>
+  <h1>Box sizing</h1>
+    <h2>Add!</h2>
+
+  <h1>Cascata e especificidade</h1>
+    <div id="cabecalho" class="titulo-principal">Olá Mundo</div>
+    <p class="texto">Meu parágrafo</p>
+    <p id="bio" style="color: pink;">Sou rosa por causa do inline. Opa um important</p>
+
+  <h1>Unidades (px, %, rem, em, vw, vh)</h1>
+    <p class="pixels">px (Pixels)</p>
+    <p class="porcentagem">% (Porcentagem)<p>
+    <p class="viewport">vw (Viewport Width)</p>
+    <p class="modern-unities">dvh, svh, lvh (Novidades Modernas)</p>
+
+  <h1>Display</h1>
+      <!-- Estes vão um para baixo do outro -->
+    <div style="display: block; background: lightblue; width: 100px;">Bloco 1</div>
+    <div style="display: block; background: lightcoral; width: 100px;">Bloco 2</div>
+
+    <br>
+
+    <!-- Estes ficam lado a lado -->
+    <div style="display: inline-block; background: lightgreen; width: 100px;">Inline 1</div>
+    <div style="display: inline-block; background: lightyellow; width: 100px;">Inline 2</div>
+
+    <div class="container-flex">
+      <div style="background: orange;">Item 1</div>
+      <div style="background: orange;">Item 2</div>
+      <div style="background: orange;">Item 3</div>
+    </div>
+
+    <div class="container-grid">
+      <div style="background: gray;">Lateral Esq.</div>
+      <div style="background: white; border: 1px solid black;">Conteúdo Principal</div>
+      <div style="background: gray;">Lateral Dir.</div>
+    </div>
+
+    <div>Item Visível</div>
+      <div style="display: none;">Este item não aparece e não ocupa espaço</div>
+      <div>Item Visível abaixo do oculto</div>
+
+</body>
+</html>

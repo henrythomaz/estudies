@@ -1,0 +1,86 @@
+/* Box Sizing */
+* {
+  box-sizing: border-box;
+}
+
+div {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  color: red;
+}
+
+/* Box Model */
+#content {
+  width: 200px;
+  height: 200px;
+}
+#padding {
+  padding: 20px;
+}
+#border {
+  border: 1px solid maroon;
+}
+#margin {
+  margin: 50px;
+}
+
+/* Cascata e especificidade */
+
+.titulo-principal {
+  color: blue;
+}
+#cabecalho {
+  color: green;
+}
+.texto {
+  color: orange;
+}
+.texto {
+  color: purple;
+}
+#bio {
+  /* O !important ganha até do estilo inline (VENCEU) */
+  color: black !important;
+}
+
+.content-box {
+  box-sizing: content-box;
+  width: 200px;
+  padding: 20px;
+}
+
+.border-box {
+  box-sizing: border-box;
+  width: 200px;
+  padding: 20px;
+}
+
+/* Unidades (px, %, rem, em, vw, vh) */
+.pixels {
+  font-size: 50px;
+}
+.porcentagem {
+  font-size: 50%;
+}
+.viewport {
+  font-size: 10vw;
+}
+.modern-unities {
+  font-size: 10dvh;
+}
+
+/* Displays */
+.container-flex {
+  display: flex;
+  gap: 10px;               /* Espaçamento entre os itens */
+  justify-content: center; /* Centraliza na horizontal */
+  align-items: center;     /* Centraliza na vertical */
+  height: 100px;
+  background-color: #f0f0f0;
+}
+.container-grid {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr; /* Cria 3 colunas de tamanhos diferentes */
+  gap: 5px;
+}
