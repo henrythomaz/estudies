@@ -14,13 +14,13 @@ status - checked!
 
 ## Capter 3
 
-- Aplicando estilos de texto
+- Applying test estyles
 
 status - checked!
 
 ## Capter 4
 
-- Imagens
+- Images
 
 status - checked!
 
@@ -29,3 +29,7 @@ status - checked!
 - Links
 
 status - checked!
+
+## Capter 6
+
+- Lists
