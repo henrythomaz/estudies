@@ -51,3 +51,9 @@ status - checked!
 - Iframes
 
 status - checked!
+
+## Capter 10
+
+- Map Images
+
+status - checked! 
