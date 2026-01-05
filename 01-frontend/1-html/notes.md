@@ -17,3 +17,9 @@ status - checked!
 - Aplicando estilos de texto
 
 status - checked!
+
+## Capter 4
+
+- Imagens
+
+status - checked!
