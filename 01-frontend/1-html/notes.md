@@ -64,6 +64,12 @@ status - checked!
 
 ## Capter 1
 
-- Fundamentals
+- 1.Fundamentals
+
+status - checked!
+
+## Capter 2
+
+- 2.Layot
 
 status - checked!

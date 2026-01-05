@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Layout</title>
+</head>
+<body>
+  <h1>Flexbox</h1>
+    <div class="container-flex">
+    <div class="card">Item 1</div>
+    <div class="card">Item 2</div>
+    <div class="card">Item 3</div>
+  </div>
+
+  <h1>Grid</h1>
+    <div class="container">
+      <header class="header">Header</header>
+      <aside class="sidebar">Menu</aside>
+      <main class="content">Conteúdo Principal</main>
+      <aside class="sidebar">Anúncios</aside>
+      <footer class="footer">Footer</footer>
+    </div>
+    <div class="grid-container">
+      <div class="card-2">Card 1</div>
+      <div class="card-2">Card 2</div>
+      <div class="card-2">Card 3</div>
+      <div class="card-2">Card 4</div>
+    </div>
+
+  <h1>Position</h1>
+    <!-- 1. FIXED: Botão flutuante que não sai da tela -->
+    <button class="btn-fixed">Suporte</button>
+
+    <header class="header-sticky">
+      <!-- 2. STICKY: Gruda no topo ao rolar a página -->
+      Menu Stick (Rola e Gruda)
+    </header>
+
+    <div class="content">
+      <!-- 3. STATIC: Comportamento normal -->
+      <p class="box static">Sou Static (Fluxo Normal)</p>
+
+      <!-- 4. RELATIVE: Movido sem afetar os outros -->
+      <p class="box relative">Sou Relative (Movido 20px)</p>
+
+      <!-- 5. ABSOLUTE: Posicionado dentro de um pai Relative -->
+      <div class="pai-referencia">
+        Sou o Pai (Relative)
+        <span class="box absolute">Sou Absolute</span>
+      </div>
+    </div>
+
+  <h1>Z-index</h1>
+    <div class="pai-1">
+      <div class="filho-a">Filho A (z-index: 9999)</div>
+    </div>
+
+    <div class="pai-2">
+      <div class="filho-b">Filho B (z-index: 1)</div>
+    </div>
+
+</body>
+</html>
