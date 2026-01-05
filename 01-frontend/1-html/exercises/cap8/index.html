@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms</title>
+</head>
+<body>
+  <h2>Method GET</h2>
+  <form action="httpbin.org" method="get">
+    <label for="nome_get">Nome:</label>
+    <input type="text" id="nome_get" name="nome">
+    <label for="sobrenome_get">Sobrenome:</label>
+    <input type="text" id="sobrenome_get" name="sobrenome">
+    <button type="submit">Send (GET)</button>
+  </form>
+  <h2>Method POST</h2>
+  <form action="POST">
+   <label for="nome_post">Nome:</label>
+    <input type="text" id="nome_post" name="nome">
+    <label for="sobrenome_post">Sobrenome:</label>
+    <input type="text" id="sobrenome_post" name="sobrenome">
+    <button type="submit">Send (POST)</button>
+  </form>
+</body>
+</html>
