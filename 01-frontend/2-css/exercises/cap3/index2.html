@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style2.css">
+  <title>Responviness</title>
+</head>
+<body>
+  <h1>Mobile First</h1>
+    <div class="container">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+    </div>
+  <h1>Breakpoints comuns</h1>
+    <p>Checked!</p>
+  <h1>Container queries</h1>
+    <!-- O "Wrapper" define o contêiner que será monitorado -->
+  <div class="post-container">
+    <article class="card">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uxQDptQ-7fut65bSoOZ8H41xyGyvQhfHr-qOXQcBceMpu2LsrdaUt7NcpigK01bH6fPmxqCmIumuL1C7LKxHMtOOZPWSvZNIUkoXiez8&s=10" alt="Produto" class="card-img">
+      <div class="card-body">
+        <h2>Título do Produto</h2>
+        <p>Esta descrição se adapta conforme o espaço do pai.</p>
+        <button>Comprar Agora</button>
+      </div>
+    </article>
+  </div>
+
+  <h1>Responsive Images</h1>
+  <img 
+  src="foto-800.png"
+  srcset="foto-400.png 400w, 
+          foto-800.png 800w, 
+          foto-1200.png 1200w"
+  sizes="(max-width: 600px) 100vw, 50vw"
+  alt="Descrição da imagem"
+  loading="lazy">
+
+</body>
+</html>

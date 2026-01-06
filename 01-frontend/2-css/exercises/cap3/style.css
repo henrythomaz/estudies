@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+/* @media media-type and (condição) {
+   Estilos CSS aplicados se a condição for verdadeira
+} */
+
+/* Media Queries */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media print {
+  .menu-navegacao {
+    display: none;
+  }
+}
+/* Estilo padrão para celulares */
+.container { width: 100%; height: 80%; background-color: violet;}
+
+/* Estilo para tablets e desktops (acima de 768px) */
+@media (min-width: 768px) {
+  .container { width: 50%; height: 50%; background-color: black;}
+}
+
+/* Mobile first */
+
+

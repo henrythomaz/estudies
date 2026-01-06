@@ -73,3 +73,9 @@ status - checked!
 - 2.Layot
 
 status - checked!
+
+## Capter 3
+
+- 3.Responsiveness
+
+status -checked!

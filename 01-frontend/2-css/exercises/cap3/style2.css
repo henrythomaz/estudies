@@ -1,0 +1,73 @@
+/* Mobile First */
+
+/* 1. Estilo BASE (Celulares) */
+/* Aplicado a todos os dispositivos por padrão */
+.container {
+  display: block;
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+/* 2. Estilo para Tablets (>= 768px) */
+@media (min-width: 768px) {
+  .container {
+    display: flex;
+    padding: 20px;
+  }
+}
+
+/* 3. Estilo para Desktops (>= 1024px) */
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+}
+
+/* Container queries */
+/* 1. Definimos o elemento pai como o contêiner */
+.post-container {
+  container-type: inline-size;
+  width: 100%; /* Pode ser 300px ou 1000px, o card vai se adaptar */
+  border: 1px solid #ddd;
+}
+
+/* 2. Estilo Padrão (Mobile/Coluna Estreita) */
+.card {
+  display: flex;
+  flex-direction: column; /* Empilhado verticalmente */
+  padding: 1rem;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+}
+
+/* 3. A Mágica: Se o contêiner PAI tiver mais de 500px */
+@container (min-width: 500px) {
+  .card {
+    flex-direction: row; /* Muda para horizontal */
+    align-items: center;
+    gap: 20px;
+  }
+
+  .card-img {
+    width: 200px; /* Imagem fixa na lateral */
+  }
+
+  .card-body h2 {
+    font-size: 1.5rem;
+    color: #2ecc71;
+  }
+}
+
+/* Responsive Images */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover; /* Mantém a proporção ao cortar */
+}
+
