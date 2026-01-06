@@ -1,0 +1,48 @@
+/* Font Family */
+
+/* Prioriza Fonte Variável > Fontes do Sistema > Genérica */
+body {
+  font-family: 'Inter Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Font Size */
+
+h1 {
+  /* Tamanho mínimo 2rem, ideal 5vw, máximo 4rem */
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
+/* Line Height */
+
+h1 {
+  /* Tamanho mínimo 2rem, ideal 5vw, máximo 4rem */
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
+/* Letter spacing */
+
+.caption {
+  letter-spacing: 0.02em;
+  font-size: 0.875rem;
+}
+
+/* Text align */
+body {
+  text-align: center;
+}
+
+/* Web Fonts */
+
+@font-face {
+  font-family: 'MinhaFonte';
+  src: url('fonte-variavel.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+article {
+  max-width: 65ch; /* Limita caracteres por linha para conforto visual */
+  line-height: 1.6;
+  text-wrap: pretty; /* Recurso de 2026 para evitar viúvas (palavras sozinhas na última linha) */
+}
+

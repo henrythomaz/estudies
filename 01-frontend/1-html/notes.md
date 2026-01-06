@@ -78,4 +78,10 @@ status - checked!
 
 - 3.Responsiveness
 
-status -checked!
+status - checked!
+
+## Capter 4
+
+- 4. Typography
+
+status - checked!
