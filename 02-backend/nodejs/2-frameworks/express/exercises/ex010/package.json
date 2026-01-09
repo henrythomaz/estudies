@@ -1,0 +1,41 @@
+{
+  "name": "ex010",
+  "version": "1.0.0",
+  "description": "Exercício 10",
+  "keywords": [
+    "Javascript",
+    "Typescript",
+    "Node",
+    "Express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrythomaz/estudies/02-backend/nodejs/2-frameworks/express/exercises/ex010"
+  },
+  "license": "MIT",
+  "author": "Henry Thomaz Oliveira Campos",
+  "type": "modules",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon start"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@eslint/json": "^0.14.0",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4",
+    "sequelize-cli": "^6.6.5",
+    "sucrase": "^3.35.1"
+  }
+}
