@@ -21,6 +21,10 @@ console.log(myNum);
 console.log(myBool);
 console.log(myVar2);
 
+// Inferência de tipos
+const varString = "string";
+
+
 function sum(a: number, b?: number): number {
   b = !b ? 0 : b;
   return a + b;
