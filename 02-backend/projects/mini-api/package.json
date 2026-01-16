@@ -1,0 +1,39 @@
+{
+  "name": "mini-api",
+  "version": "1.0.0",
+  "description": "Este projeto é para aprender ts mais rápido",
+  "keywords": [
+    "Javascript",
+    "Typescript",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "homepage": "https://github.com/henrythomaz/estudies/tree/main#readme",
+  "bugs": {
+    "url": "https://github.com/henrythomaz/estudies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrythomaz/estudies.git#main"
+  },
+  "license": "MIT",
+  "author": "Henry Thomaz Oliveira Campos",
+  "type": "module",
+  "main": "src/server.ts",
+  "scripts": {
+    "start:dev": "nodemon --watch 'src/' --exec 'ts-node src/server.ts' -e .ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.0.0",
+    "nodemon": "^3.1.11",
+    "prettier": "^3.8.0",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.53.0"
+  }
+}
