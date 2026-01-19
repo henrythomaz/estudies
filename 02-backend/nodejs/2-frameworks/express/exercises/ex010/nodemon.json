@@ -1,5 +1,10 @@
 {
   "execMap": {
-    "js": "sucrase-node"
-  }
+    "js": "sucrase-node"  
+  },
+  "watch": "[src/]",
+  "ext": "js,json",
+  "ignore": "node_modules/",
+  "legacyMatch": true,
+  "pollingInterval": 1000
 }
