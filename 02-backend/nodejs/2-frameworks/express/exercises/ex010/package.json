@@ -18,16 +18,23 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node .",
-    "start:dev": "nodemon .",
+    "start:dev": "nodemon src/server.js",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix src --ext .js"
+    "lint:fix": "eslint --fix src --ext .js",
+    "migrate": "sequelize db:migrate",
+    "migrate:undo": "sequelize db:migrate:undo",
+    "migrate:docker": "docker compose up -d && docker compose exec app yarn migrate",
+    "migrate:undo:docker": "docker compose up -d && docker compose exec app yarn migrate:undo"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "date-fns": "^4.1.0",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "pg": "^8.16.3",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.37.7"
+    "sequelize": "^6.37.7",
+    "yup": "^1.7.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.3",
