@@ -1,0 +1,60 @@
+# customers
+
+## index customers
+## GET http://localhost:3000/customers/
+
+## show customers
+## GET http://localhost:3000/customers/1
+
+## create customers
+## POST http://localhost:3000/customers
+
+## update customers
+## PUT http://localhost:3000/customers/1
+
+## destroy customers
+## DELETE http://localhost:3000/customers/1
+
+# contacts
+
+## index contacts
+## GET http://localhost:3000/1/customers/contacts/
+
+## show contacts
+## GET http://localhost:3000/1/customers/contacts/1
+
+## create contacts
+## POST http://localhost:3000/1/customers/contacts
+
+## update contacts
+## PUT http://localhost:3000/1/customers/contacts/1
+
+## destroy contacts
+## DELETE http://localhost:3000/1/customers/contacts/1
+
+# users
+
+## index users
+## GET http://localhost:3000/users/
+
+## show users
+## GET http://localhost:3000/users/1
+
+## create users
+## POST http://localhost:3000/users
+
+## update users
+## PUT http://localhost:3000/users/1
+
+## destroy users
+## DELETE http://localhost:3000/users/1
+
+# POST método POST
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "name": "Henry Thomaz",
+  "email": "ht@gmail.com",
+  "oldPassword r"
+}
