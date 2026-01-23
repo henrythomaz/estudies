@@ -9,9 +9,19 @@ services:
       - pgdata:/var/lib/postgresql/data
   app:
     build: .
+    env_file:
+      - .env
+    environment:
+      DOCKER: "true"
+      CHOKIDAR_USEPOLLING: "true"
+      NODE_ENV: "development"
     ports:
       - "3000:3000"
     depends_on:
       - postgres
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.yarn
 volumes:
   pgdata:
