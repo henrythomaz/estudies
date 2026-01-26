@@ -1,0 +1,10 @@
+{
+  "execMap": {
+    "js": "node --experimental-specifier-resolution=node --no-warnings"
+  },
+  "watch": ["index.js"],
+  "ext": "js,json",
+  "legacyWatch": true,
+  "pollingInterval": 1000
+}
+
