@@ -3,6 +3,8 @@ import routes from "./routes/routes.js";
 
 import "./database/index.js";
 
+// import auth from "./app/middlewares/auth.js";
+
 class App {
   constructor() {
     this.server = express();
@@ -11,6 +13,7 @@ class App {
   }
   middlewares() {
     this.server.use(express.json());
+    // this.server.use(auth);
   }
   routes() {
     this.server.use(routes);
