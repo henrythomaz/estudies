@@ -14,7 +14,7 @@ status - checked!
 
 ## Capter 3
 
-- Applying test estyles
+- Applying text estyles
 
 status - checked!
 

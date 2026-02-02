@@ -1,7 +1,7 @@
 # HTML
 
 Status: Revisado
-Nível: Intermediário
+Nível: Hiper básico
 
 Este diretório documenta meu conhecimento em HTML.
 Não é um guia introdutório - foco em boas práticas, semântica e acessibilidade.
