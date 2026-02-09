@@ -1,6 +1,6 @@
 const Aside = () => {
   return (
-    <aside>
+    <aside className="w-70 bg-gray-200">
       <h1>Notes</h1>
       <hr className="border-t border-gray-300 my-4" />
       <div className="bg-gray-400">
