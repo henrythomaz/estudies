@@ -15,3 +15,10 @@ node_modules
 
 #!.yarn/cache
 .pnp.*
+
+# Binários grandes
+*.AppImage
+**/release/
+**/linux-unpacked/
+*.exe
+
